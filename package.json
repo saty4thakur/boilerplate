@@ -1,8 +1,9 @@
 {
-  "name": "generatefiles",
+  "name": "generatefiles_saty",
   "version": "1.0.0",
   "description": "test package to generate files",
   "main": "index.js",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./index.js"
