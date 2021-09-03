@@ -4,7 +4,7 @@ var inquirer = require('inquirer');
 const { ensureDirSync,copyFileSync} = require('fs-extra');
 
 const cwd = process.cwd();
-const dir_path = cwd+'/Configurations/RunConfigurations/';
+const dir_path  = cwd+'/Configurations/RunConfigurations/';
 
 inquirer
   .prompt([
