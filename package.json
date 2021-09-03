@@ -1,0 +1,27 @@
+{
+  "name": "generatefiles",
+  "version": "1.0.0",
+  "description": "test package to generate files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saty4thakur/boilerplate.git"
+  },
+  "keywords": [
+    "generate"
+  ],
+  "author": "Satyendra Kumar Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saty4thakur/boilerplate/issues"
+  },
+  "homepage": "https://github.com/saty4thakur/boilerplate#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2"
+  }
+}
