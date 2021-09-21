@@ -1,3 +1,6 @@
 
 node_modules
 test.js
+packages/action-utils/node_modules
+packages/logger/node_modules
+packages/assertion-utils/node_modules
