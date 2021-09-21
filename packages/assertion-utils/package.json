@@ -1,0 +1,17 @@
+{
+  "name": "assertion-utils",
+  "version": "1.0.0",
+  "description": "assertion util contains data utilities and compare functions",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asseertion",
+    "data",
+    "test",
+    "data"
+  ],
+  "author": "Satyendra Kumar Thakur",
+  "license": "ISC"
+}
