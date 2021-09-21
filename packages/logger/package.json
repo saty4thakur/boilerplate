@@ -1,0 +1,18 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "logger for automation-product",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "automation-product"
+  ],
+  "author": "Satyendra Kumar Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^6.3.0"
+  }
+}
